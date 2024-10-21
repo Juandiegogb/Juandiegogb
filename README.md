@@ -1,4 +1,4 @@
-# Hi im Juan Diego, fullstack junior dev.
+# Hi i´m Juan Diego, fullstack junior dev.
 
 
 
